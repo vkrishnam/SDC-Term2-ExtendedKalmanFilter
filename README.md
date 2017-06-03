@@ -31,3 +31,12 @@ The overall architecture of the project and data flow follows the illustration b
    some sample inputs in 'data/'.
     - eg. `./ExtendedKF ../data/obj_pose-laser-radar-synthetic-input.txt`
 
+## Accuracies Achieved
+
+With the file /data/obj_pose-laser-radar-synthetic-input.txt follwing RMSE Errors are achieved.
+   Accuracy - RMSE:
+   0.0972414
+   0.0859948
+   0.450821
+   0.442915
+
